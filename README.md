@@ -1,0 +1,2 @@
+# zshConfiguration
+turn-key terminal
